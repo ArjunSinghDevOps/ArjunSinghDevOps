@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <b>Cloud & DevOps Engineer</b><br>
-  Product Support Engineer with 6+ Years of Experience<br>
+  <b>Cloud | DevOps | SRE | Production Operations</b><br>
+  💼 6+ Years of Experience in Product Support, Production Operations & DevOps<br>
   Building production-ready cloud projects using AWS, Docker, Terraform and CI/CD.
 </p>
 
