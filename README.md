@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi 👋 I'm Arjun Singh
 
-<!--
-**ArjunSinghDevOps/ArjunSinghDevOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Cloud & DevOps Engineer
 
-Here are some ideas to get you started:
+I'm a DevOps Engineer passionate about building scalable cloud infrastructure, automating deployments, and improving system reliability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ☁️ Tech Stack
+
+- AWS
+- Docker
+- Kubernetes
+- Terraform
+- Jenkins
+- GitHub Actions
+- Linux
+- Python
+- Flask
+- Git
+- ELK Stack
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Employee Management Microservice
+- Flask REST API
+- Docker Containerization
+- GitHub Actions CI/CD
+- Amazon ECR
+- EC2 Deployment
+
+### 🔹 Terraform AWS Infrastructure
+- EC2
+- Security Groups
+- Remote Backend (S3)
+- DynamoDB State Locking
+- Modules
+
+### 🔹 Ansible Docker Automation
+- Docker Installation
+- Nginx Deployment
+- Inventory Management
+- Playbooks
+
+### 🔹 ELK Logging
+- Python Logging
+- Elasticsearch
+- Logstash
+- Kibana
+
+---
+
+## 📚 Currently Learning
+
+- Amazon EKS
+- Helm
+- Prometheus
+- Grafana
+- Advanced Kubernetes
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: arjun.jagdishsaran1997@gmail.com
+
+📍 Bangalore, India
+
+---
+
+⭐ Thanks for visiting my profile!
