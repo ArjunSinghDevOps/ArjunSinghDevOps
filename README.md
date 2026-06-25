@@ -1,25 +1,30 @@
-<h1 align="center">Hi 👋, I'm Arjun Singh</h1>
-
-<h3 align="center">Cloud & DevOps Engineer | AWS | Docker | Kubernetes | Terraform | Jenkins</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Arjun%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Cloud%20%7C%20DevOps%20Engineer&descAlignY=68" />
+</p>
 
 <p align="center">
-I'm a DevOps Engineer passionate about Cloud Infrastructure, CI/CD Automation, Infrastructure as Code, and Monitoring.
-I enjoy building production-ready applications and automating deployments using modern DevOps tools.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+GitHub+Actions;Linux+%7C+Python+%7C+Flask;Always+Learning+%26+Building+Projects" />
+</p>
+
+<p align="center">
+  <b>Cloud & DevOps Engineer</b><br>
+  Product Support Engineer with 6+ Years of Experience<br>
+  Building production-ready cloud projects using AWS, Docker, Terraform and CI/CD.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Product Support Engineer with **3.6+ Years of Experience**
-- ☁️ Learning & Building Cloud Infrastructure on AWS
-- 🐳 Passionate about Docker, Kubernetes & DevOps Automation
-- ⚡ Interested in CI/CD, Monitoring & Infrastructure as Code
+- 💼 Product Support Engineer (6+ Years Experience)
+- ☁️ Transitioning into Cloud & DevOps Engineering
+- 🚀 Hands-on with AWS, Docker, Kubernetes, Terraform & GitHub Actions
+- 📚 Continuously building real-world DevOps projects
 - 📍 Bangalore, India
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Technologies & Tools
 
 <p align="center">
 
